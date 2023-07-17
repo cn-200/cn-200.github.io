@@ -21,8 +21,8 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'cn-200', // Usually your GitHub org/user name.
   projectName: 'cn-200.github.io', // Usually your repo name.
-  deploymentBranch: 'main', // The branch of your docs repo that you are publishing to GitHub pages
-  
+  deploymentBranch: 'gh-pages', // The branch of your docs repo that you are publishing to GitHub pages
+
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
